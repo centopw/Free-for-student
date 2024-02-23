@@ -47,7 +47,7 @@ A curated list of resources and tools available for students for free.
 - [Zoho Workplace for Education](https://www.zoho.com/workplace/education/): Free access to Zoho Workplace for students and educators.
 
 ## Miscellaneous:
-- [Amazon Prime Student]([https://www.amazon.com/amazonprime?_encoding=UTF8&primeCampaignId=studentWlpPrimeRedir&ref_=footer_prime](https://www.amazon.com/amazonprime?ie=UTF8&camp=1789&creative=9325&linkCode=pf4&linkId=20c16810f7a884d89d661136598d84a9&planOptimizationId=WLPStudentMonthlyEligiblePlans&primeCampaignId=studentWlpPrimeRedir&ref_=assoc_tag_ph_1402130811706&tag=freeforstud0f-20)): Offers Amazon Prime for 6 months memberships for students.
+- [Amazon Prime Student](https://www.amazon.com/amazonprime?camp=1789&creative=9325&linkId=20c16810f7a884d89d661136598d84a9&planOptimizationId=WLPStudentMonthlyEligiblePlans&primeCampaignId=studentWlpPrimeRedir): Offers Amazon Prime for 6 months memberships for students.
 - [Overleaf](https://www.overleaf.com/edu): Free online LaTeX editor.
 - [Trello Education](https://trello.com/education): Free Trello Gold accounts.
 - [IBM Academic Initiative](https://www.ibm.com/academic/): Free access to IBM software.
